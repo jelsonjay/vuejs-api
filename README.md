@@ -1,4 +1,5 @@
-# vuejs-api
+# Vue.js-API
+This is a min vue.js application with fetching data from the fake API Json Placeholder
 
 ## Project setup
 ```
